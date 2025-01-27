@@ -6,6 +6,7 @@
 - 📘 I'm studying **Mathematical Methods of Artificial Intelligence**
 - 💻 Currently focused on **higher mathematics**, **Python**, **machine learning**, and **C++**
 - 🧠 I’m solving tasks on **LeetCode**, exploring **algorithms** and **machine learning**
+- 🏫 Studying in the **VK × BMSTU (ex. Technopark)** program, where I’m deepening my expertise in web development.
 
 ## ⚡ Fun Facts
 
@@ -33,8 +34,35 @@
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
   </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Sklearn"/>
+  </a>
+  <a href="https://xgboost.readthedocs.io/" target="_blank">
+    <img src="https://img.shields.io/badge/XGBoost-DD0031?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
+  </a>
   <a href="https://www.kaggle.com/" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  </a>
+  <a href="https://nginx.org/" target="_blank">
+    <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank">
+    <img src="https://img.shields.io/badge/AJAX-00599C?style=for-the-badge&logo=javascript&logoColor=white" alt="AJAX"/>
+  </a>
+  <a href="https://gunicorn.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn"/>
+  </a>
+  <a href="https://centrifugal.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Centrifugo-3A76F0?style=for-the-badge&logo=centrifugo&logoColor=white" alt="Centrifugo"/>
   </a>
 </p>
 
